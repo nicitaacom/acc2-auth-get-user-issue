@@ -4,7 +4,7 @@
 
 # <sub> mvp - https://friendly-adventure-q956xqw9vrw2xv99.github.dev/</sub>
 
-# <sub> github - https://github.com/nicitaacom/acc2-image-warning-to-maintain-the-aspect-ratio</sub>
+# <sub> github - https://github.com/nicitaacom/acc2-auth-get-user-issue</sub>
 
 <br/>
 
@@ -23,7 +23,7 @@
 ## or Step 1.1 - clone repository (variant 2)
 
 ```
-git clone https://github.com/nicitaacom/acc2-image-warning-to-maintain-the-aspect-ratio
+git clone https://github.com/nicitaacom/acc2-auth-get-user-issue
 ```
 
 ## Step 1.2 - install deps
