@@ -7,5 +7,10 @@ export default async function Home() {
   } = await supabaseClient.auth.getUser()
   console.log(12, "user - ", user)
 
-  return <LoginForm />
+  return (
+    <>
+      <LoginForm />
+      {JSON.stringify(user)}
+    </>
+  )
 }

@@ -1,8 +1,8 @@
 # What inside? <br/>
 
-# <sub> demo - https://ominous-space-broccoli-9qgwx9pqq6p2pxvq-3000.app.github.dev/ <br/>
+# <sub> demo - https://friendly-adventure-q956xqw9vrw2xv99-3000.app.github.dev/ <br/>
 
-# <sub> mvp - https://ominous-space-broccoli-9qgwx9pqq6p2pxvq.github.dev</sub>
+# <sub> mvp - https://friendly-adventure-q956xqw9vrw2xv99.github.dev/</sub>
 
 # <sub> github - https://github.com/nicitaacom/acc2-image-warning-to-maintain-the-aspect-ratio</sub>
 
