@@ -44,4 +44,4 @@ pnpm dev
 
 ## Step 2 - setup .env
 
-You don't need to setup env
+Just copy paste .env.public to .env.local
