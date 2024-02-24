@@ -1,10 +1,11 @@
 import { LoginForm } from "./components/LoginForm"
 import supabaseClient from "./libs/supabase/supabaseClient"
+import supabaseServer from "./libs/supabase/supabaseServer"
 
 export default async function Home() {
   const {
     data: { user },
-  } = await supabaseClient.auth.getUser()
+  } = await supabaseServer().auth.getUser()
   console.log(12, "user - ", user)
 
   return (
